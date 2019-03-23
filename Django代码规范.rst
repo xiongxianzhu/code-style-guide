@@ -15,3 +15,7 @@ django官方代码规范
 ================
 
 - `Django Coding Style <https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/>`_
+
+django规范
+==========
+- `django编码规范 <https://www.jianshu.com/p/c7455c178059>`_
